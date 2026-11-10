@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "uraimo",
+  "repo": "Awesome-Swift-Playgrounds",
+  "versions": [
+    {
+      "commit": "fed28248bd31ff829c2223233da2e53dc77b6581",
+      "parsed_at": "2026-11-10T04:07:46.633207+00:00",
+      "filetree": "filetree/fed28248bd31ff829c2223233da2e53dc77b6581.nq.gz",
+      "blobs": [
+        "blob/10468b29eaa6c7a5cbd07f46477313c3846f71ec.nq.gz",
+        "blob/7be359a1a5d92a54601726196c9a8caba8fcf74d.nq.gz",
+        "blob/5c2bcf5923d51890427dce826c39845167eb13bf.nq.gz",
+        "blob/03c9caa236b02e481f27e52c1f9b1c7d7a416e47.nq.gz",
+        "blob/d630e159ab23fac1df2fb8259033ddfc0314870d.nq.gz",
+        "blob/d6bc77fd569ecfce88a528d43d907c9e18fee795.nq.gz",
+        "blob/b0ed802765498c4315dd534a955a2aa982e84bd7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
